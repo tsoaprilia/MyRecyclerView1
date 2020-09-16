@@ -4,10 +4,12 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/qq"
     tools:context=".MainActivity">
 
 
     <androidx.recyclerview.widget.RecyclerView
+
         android:id="@+id/rv_hero"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
