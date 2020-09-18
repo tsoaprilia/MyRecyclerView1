@@ -1,4 +1,4 @@
-package com.android.myrecyclerview.modul;
+package com.android.myrecyclerview;
 
 public class Hero {
     private String name;
