@@ -18,7 +18,6 @@ public class ListHeroAdapter extends RecyclerView.Adapter<ListHeroAdapter.ListVi
 
 
     private ArrayList<Hero> listHero;
-
     public ListHeroAdapter(ArrayList<Hero> list) {
         this.listHero = list;
     }

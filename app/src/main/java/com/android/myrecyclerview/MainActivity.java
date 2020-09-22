@@ -15,17 +15,12 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView rvHeroes;
     private ArrayList<Hero> list = new ArrayList<>();
 
-    private void showRecyclerGrid() {
-        rvHeroes.setLayoutManager(new GridLayoutManager(this, 2));
-        GridHeroAdapter gridHeroAdapter = new GridHeroAdapter(list);
-        rvHeroes.setAdapter(gridHeroAdapter);
-    }
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
         rvHeroes = findViewById(R.id.rv_hero);
         rvHeroes.setHasFixedSize(true);
@@ -34,6 +29,20 @@ public class MainActivity extends AppCompatActivity {
         showRecyclerList();
 
     }
+
+    private void showRecyclerGrid() {
+        rvHeroes.setLayoutManager(new GridLayoutManager(this, 2));
+        GridHeroAdapter gridHeroAdapter = new GridHeroAdapter(list);
+        rvHeroes.setAdapter(gridHeroAdapter);
+    }
+
+    private void showRecyclerCardView() {
+        rvHeroes.setLayoutManager(new LinearLayoutManager(this));
+        CardViewHeroAdapter cardViewHeroAdapter = new
+                CardViewHeroAdapter(list);
+        rvHeroes.setAdapter(cardViewHeroAdapter);
+    }
+
 
     private void showRecyclerList() {
         rvHeroes.setLayoutManager(new LinearLayoutManager(this));
@@ -64,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
                 break;
 
             case R.id.action_CardView:
+                showRecyclerCardView();
                 break;
         }
     }
