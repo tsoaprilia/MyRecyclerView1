@@ -15,6 +15,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="200dp"
+        android:background="#B571787A"
         android:padding="8dp">
 
         <ImageView
@@ -36,6 +37,8 @@
             android:layout_toEndOf="@id/img_item_photo"
             android:layout_toRightOf="@id/img_item_photo"
             android:textSize="16sp"
+            android:fontFamily="casual"
+            android:textColor="#FFFFFF"
             android:textStyle="bold"
             tools:text="@string/heroes_name" />
 
@@ -47,6 +50,8 @@
             android:layout_below="@id/tv_item_name"
             android:layout_marginLeft="@dimen/activity_vertical_margin"
             android:layout_marginRight="@dimen/activity_vertical_margin"
+            android:fontFamily="casual"
+            android:textColor="#FFFFFF"
             android:layout_toEndOf="@id/img_item_photo"
             android:layout_toRightOf="@id/img_item_photo"
             android:ellipsize="end"
