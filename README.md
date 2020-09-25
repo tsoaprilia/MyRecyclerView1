@@ -41,7 +41,8 @@ Mode Card View ini digunakan untuk menampilkan desain yang diberisi informasi, g
 
 ![WhatsApp Image 2020-09-25 at 20 17 09](https://user-images.githubusercontent.com/60412314/94271698-2de8be00-ff6c-11ea-8ef7-1b4bdd6a3641.jpeg)
 
-## Toast
+## List View dan Toast
+List view digunakan untuk melakukan sebuah aksi ketika salah satu item pada list dipilih. Bentuk dari aksi tersebut adalah tampilan Toast.
 Toast ini digunakan untuk menampilkan notifikasi berupa teks, yang akan menghilang setelah beberapa waktu.  [ Baca Selengkapnya...](https://medium.com/@lobothijau/membuat-custom-toast-di-android-studio-f04f502f9042)
 
 - List Mode
