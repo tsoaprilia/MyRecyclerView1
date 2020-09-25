@@ -36,6 +36,29 @@ Mode Grid ini digunakan untuk menampilkan konten View, konten View tersebut akan
 
 ![bb](https://user-images.githubusercontent.com/60412314/93605070-79412080-f9f0-11ea-9363-ed52f4c1b6da.jpg)
 
+## Tampilan Card View Mode
+Mode Card View ini digunakan untuk menampilkan desain yang diberisi informasi, gambar dan button. CardView berfungsi sebagai wrapper atau frame layout yang akan membungkus layout di dalamnya dengan desain menyerupai kartu. [ Baca Selengkapnya...](https://arifdauhiblog.wordpress.com/2019/06/29/tutorial-membuat-cardview-di-android-studio/)
+
+![WhatsApp Image 2020-09-25 at 20 17 09](https://user-images.githubusercontent.com/60412314/94271698-2de8be00-ff6c-11ea-8ef7-1b4bdd6a3641.jpeg)
+
+## Toast
+Toast ini digunakan untuk menampilkan notifikasi berupa teks, yang akan menghilang setelah beberapa waktu.  [ Baca Selengkapnya...](https://medium.com/@lobothijau/membuat-custom-toast-di-android-studio-f04f502f9042)
+
+- List Mode
+
+![WhatsApp Image 2020-09-25 at 18 14 39 (1)](https://user-images.githubusercontent.com/60412314/94272233-fb8b9080-ff6c-11ea-8fda-161dc17a69b6.jpeg)
+
+- Grid Mode
+
+![WhatsApp Image 2020-09-25 at 18 14 39 (2)](https://user-images.githubusercontent.com/60412314/94272298-165e0500-ff6d-11ea-9bc9-d12087421266.jpeg)
+
+-  Card View Mode
+
+![WhatsApp Image 2020-09-25 at 18 14 39 (3)](https://user-images.githubusercontent.com/60412314/94272404-38578780-ff6d-11ea-8d78-a963f91e8b89.jpeg)
+
+![WhatsApp Image 2020-09-25 at 18 14 39 (5)](https://user-images.githubusercontent.com/60412314/94272599-73f25180-ff6d-11ea-8753-6d8b317038b3.jpeg)
+
+
 ## Tampilan Full
 
 - List Mode
@@ -46,5 +69,10 @@ Mode Grid ini digunakan untuk menampilkan konten View, konten View tersebut akan
 - Grid Mode
 
 ![WhatsApp Image 2020-09-18 at 21 46 18](https://user-images.githubusercontent.com/60412314/93611521-9d086480-f9f8-11ea-9c06-371da8b6be20.jpeg)
+
+
+- Card View Mode
+
+![WhatsApp Image 2020-09-25 at 18 14 39](https://user-images.githubusercontent.com/60412314/94271835-638da700-ff6c-11ea-8391-716a22de7071.jpeg)
 
 # Terimakasih :)  
