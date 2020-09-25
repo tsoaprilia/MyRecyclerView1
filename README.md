@@ -31,9 +31,20 @@ Menu ini digunakan untuk berpindah ke Mode Lain. Seperti Berpindah dari List mod
 
 ![cc](https://user-images.githubusercontent.com/60412314/93604100-22871700-f9ef-11ea-80b1-75a0d90f9b60.jpg)
 
-## Tampilan Grif Mode
+## Tampilan Grid Mode
 Mode Grid ini digunakan untuk menampilkan konten View, konten View tersebut akan tersusun berbentuk kotak .Semua item secara otomatis masuk ke layout menggunakan ListAdapter. [ Baca Selengkapnya...](https://www.androidrion.com/tutorial-gridview-android-studio/)
 
 ![bb](https://user-images.githubusercontent.com/60412314/93605070-79412080-f9f0-11ea-9363-ed52f4c1b6da.jpg)
+
+## Tampilan Full
+
+- List Mode
+
+![WhatsApp Image 2020-09-18 at 21 46 11](https://user-images.githubusercontent.com/60412314/93611529-9ed22800-f9f8-11ea-838b-010791f0ae5c.jpeg)
+
+
+- Grid Mode
+
+![WhatsApp Image 2020-09-18 at 21 46 18](https://user-images.githubusercontent.com/60412314/93611521-9d086480-f9f8-11ea-9c06-371da8b6be20.jpeg)
 
 # Terimakasih :)  
