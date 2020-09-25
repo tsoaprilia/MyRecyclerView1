@@ -47,7 +47,7 @@ Toast ini digunakan untuk menampilkan notifikasi berupa teks, yang akan menghila
 - List Mode
 
 ![WhatsApp Image 2020-09-25 at 18 14 39 (1)](https://user-images.githubusercontent.com/60412314/94272233-fb8b9080-ff6c-11ea-8fda-161dc17a69b6.jpeg)
-
+Penambahan tampilan judul halaman aplikasi di setiap perubahan bentuk RecyclerView
 - Grid Mode
 
 ![WhatsApp Image 2020-09-25 at 18 14 39 (2)](https://user-images.githubusercontent.com/60412314/94272298-165e0500-ff6d-11ea-9bc9-d12087421266.jpeg)
@@ -61,15 +61,15 @@ Toast ini digunakan untuk menampilkan notifikasi berupa teks, yang akan menghila
 
 ## Tampilan Full
 
+Tampilan judul halaman aplikasi akan berebda di setiap perubahan bentuk RecyclerView.
+
 - List Mode
 
-![WhatsApp Image 2020-09-18 at 21 46 11](https://user-images.githubusercontent.com/60412314/93611529-9ed22800-f9f8-11ea-838b-010791f0ae5c.jpeg)
-
+![WhatsApp Image 2020-09-25 at 18 14 39 (6)](https://user-images.githubusercontent.com/60412314/94282170-b588f980-ff79-11ea-9dfd-242895e9571c.jpeg)
 
 - Grid Mode
 
-![WhatsApp Image 2020-09-18 at 21 46 18](https://user-images.githubusercontent.com/60412314/93611521-9d086480-f9f8-11ea-9c06-371da8b6be20.jpeg)
-
+![WhatsApp Image 2020-09-25 at 18 14 39 (7)](https://user-images.githubusercontent.com/60412314/94282182-b883ea00-ff79-11ea-9fc9-da914c1ad3ca.jpeg)
 
 - Card View Mode
 
